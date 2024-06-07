@@ -1,0 +1,1 @@
+Bản chưa có responsive
